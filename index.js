@@ -15,7 +15,21 @@ function generateProgressBar() {
 
 const readme = `\
 ### Hi there 👋
+
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
+
 ---
+
 ⏰ Updated on ${new Date().toUTCString()}
+
 ---
+### My GitHub Contributions    
+
+![](https://raw.githubusercontent.com/phh95/phh95/main/assets/github-contribution-grid-snake.svg)          
+
+### About me      
+
+[![Angola peng's GitHub stats](https://github-readme-stats.vercel.app/api?username=phh95&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Angola peng's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phh95&layout=compact&hide_border=true&langs_count=10)
+
+I'm mason, a man like the wind.    
