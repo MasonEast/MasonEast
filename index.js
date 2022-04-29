@@ -29,7 +29,11 @@ const readme = `\
 
 ### About me      
 
-[![Angola peng's GitHub stats](https://github-readme-stats.vercel.app/api?username=phh95&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Angola peng's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phh95&layout=compact&hide_border=true&langs_count=10)
+[![Mason's GitHub stats](https://github-readme-stats.vercel.app/api?username=phh95&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Mason's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phh95&layout=compact&hide_border=true&langs_count=10)
 
-I'm mason, a man like the wind.    
+I'm mason, a man like the wind.
+\
+`
+
+console.log(readme)
