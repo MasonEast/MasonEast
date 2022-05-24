@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-⏳ Year progress { ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 39.20 %
+⏳ Year progress { ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 39.25 %
 
 ---
 
-⏰ Updated on Tue, 24 May 2022 01:50:12 GMT
+⏰ Updated on Tue, 24 May 2022 06:25:35 GMT
 
 ---
 ### My GitHub Contributions    
@@ -21,7 +21,7 @@ I'm mason, a man like the wind.
 - 🔭 I’m currently working on manbang
 - 🌱 I’m currently learning golang
 - 💬 Ask me about ...
-- 📫 How to reach me: 2224742726@qq.com
+- 📫 How to reach me: masoneastc@gmail.com
 - 😄 hobby: chinese chess, fitness，game
 - ⚡ Fun fact: ...
 
