@@ -47,7 +47,7 @@ I'm mason, a man like the wind.
 - 🔭 I’m currently working on manbang
 - 🌱 I’m currently learning golang
 - 💬 Ask me about ...
-- 📫 How to reach me: 2224742726@qq.com
+- 📫 How to reach me: masoneastc@gmail.com
 - 😄 hobby: chinese chess, fitness，game
 - ⚡ Fun fact: ...
 \
